@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtuve/static/css/main.7064deb2.css",
+    "main.js": "/youtuve/static/js/main.8c652953.js",
+    "index.html": "/youtuve/index.html",
+    "main.7064deb2.css.map": "/youtuve/static/css/main.7064deb2.css.map",
+    "main.8c652953.js.map": "/youtuve/static/js/main.8c652953.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.8c652953.js"
+  ]
+}
