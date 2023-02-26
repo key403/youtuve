@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/youtuve/static/css/main.7064deb2.css",
-    "main.js": "/youtuve/static/js/main.454d2bea.js",
+    "main.js": "/youtuve/static/js/main.750eab88.js",
     "index.html": "/youtuve/index.html",
     "main.7064deb2.css.map": "/youtuve/static/css/main.7064deb2.css.map",
-    "main.454d2bea.js.map": "/youtuve/static/js/main.454d2bea.js.map"
+    "main.750eab88.js.map": "/youtuve/static/js/main.750eab88.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
-    "static/js/main.454d2bea.js"
+    "static/js/main.750eab88.js"
   ]
 }
